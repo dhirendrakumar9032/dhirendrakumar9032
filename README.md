@@ -9,9 +9,18 @@
 
 
 ## 🚀 About Me
-👨‍💼       I'm a front-end developer with expertise in React, JavaScript, TypeScript, HTML, CSS, and Sass. I'm currently working at Qapita fintech as a Software Engineer, where I develop and maintain front-end applications for the company.
 
-📧 Reach me anytime: dhirendra9032@gmail.com<br/><br/>
+👨‍- 🔭 I’m currently working on *Presonal Project Labour_Mandi* <!--  *[Gab.com Clone](https://github.com/jai6013/Gab_Clone)* -->
+
+- 🌱 I’m currently learning **Data Structures and Algorithms,React,Next.js.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://blissful-varahamihira-ee076d.netlify.app)**
+
+- 📫 How to reach me **dhirendra9032@gmail.com**
+
+- ⚡ Fun fact **I love to watch si-fi movies , web-serieses and playing cricket.**
 
 
 ## 🔗 Social Media Links
