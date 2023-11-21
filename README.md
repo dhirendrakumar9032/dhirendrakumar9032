@@ -10,13 +10,9 @@
 
 ## 🚀 About Me
 
-👨‍- 🔭 I’m currently working on *Presonal Project Labour_Mandi* <!--  *[Gab.com Clone](https://github.com/jai6013/Gab_Clone)* -->
+- 👨‍ I'm a passionate Frontend Engineer at Qapita Fintech India Pvt Ltd, specializing in creating dynamic and user-friendly web applications. My journey in the tech world revolves around designing and implementing visually appealing and functionally robust solutions that cater to the evolving needs of users.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms,React,Next.js.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://blissful-varahamihira-ee076d.netlify.app)**
+- 🌱 I’m currently learning **System Design, Deep Diving into Performance Optiomization,Next.js.**
 
 - 📫 How to reach me **dhirendra9032@gmail.com**
 
