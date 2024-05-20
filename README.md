@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 👨‍ I'm a passionate Frontend Engineer at Qapita Fintech India Pvt Ltd, specializing in creating dynamic and user-friendly web applications. My journey in the tech world revolves around designing and implementing visually appealing and functionally robust solutions that cater to the evolving needs of users.
-
+- I'm a passionate Frontend Engineer at Qapita Fintech India Pvt Ltd, where I specialize in creating dynamic, user-friendly web applications. My expertise lies in designing and implementing visually appealing and functionally robust solutions that cater to the evolving needs of users. With a strong foundation in React, JavaScript, HTML, CSS, and TypeScript, I am dedicated to delivering high-quality, intuitive interfaces. My journey in the tech world is driven by a commitment to continuous learning and improvement, ensuring I stay at the forefront of industry trends and technologies to provide the best possible user experience.
+  
 - 🌱 I’m currently learning **System Design, Deep Diving into Performance Optiomization,Next.js.**
 
 - 📫 How to reach me **dhirendra9032@gmail.com**
