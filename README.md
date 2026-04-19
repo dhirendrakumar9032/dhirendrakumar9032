@@ -58,7 +58,7 @@ Frontend Engineer with **4+ years of experience** building scalable, high-perfor
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dhirendra-kumar-9032/" target="_blank">
+<a href="https://www.linkedin.com/in/dhirendrakumar95/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>  
